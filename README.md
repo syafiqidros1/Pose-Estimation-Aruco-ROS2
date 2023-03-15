@@ -18,7 +18,7 @@ You will need to run the following insequence.
 > ros2 run ros2_aruco aruco_node --ros-args -p marker_size:=0.15
 // Do adjust marker size in meters if detecting aruco in real life.
 
-#### Get the TF of aruco with respect to robot & /r/n Prints out the Tag ID detected.
+#### Get the TF of aruco with respect to robot & <br> Prints out the Tag ID detected.
 > ros2 run aruco_nav fixed_static_transform.py
 
 #### Run RVIZ2
