@@ -1,7 +1,7 @@
 # Pose-Estimation-Aruco-ROS2
 
 ## Overview
-This repository is a collection of packages needed to work and detect arucos in the ROS2 Foxy distribution. It covers both the simulation in Gazebo and in real life. 
+This repository is a collection of packages needed to work and detect arucos in the ROS2 Foxy distribution. It covers both the simulation in Gazebo and in real life. For the camera it is mounted on a turtlebot3 waffle robot.
 
 ### Installing
 The following have been tested on Ubuntu 20.04 with ROS Foxy.
