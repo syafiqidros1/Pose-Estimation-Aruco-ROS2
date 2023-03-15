@@ -12,7 +12,7 @@ The following have been tested on Ubuntu 20.04 with ROS Foxy.
 You will need to run the following insequence.
 
 #### 1. Start the Gazebo Simulation
-> ros2 launch aruco_nav room_gazebo.launch.py <
+> ros2 launch aruco_nav room_gazebo.launch.py 
 
 #### Start the Aruco Node to detect arucos.
 > ros2 run ros2_aruco aruco_node --ros-args -p marker_size:=0.15
@@ -34,6 +34,8 @@ You will need to run the following insequence.
 ## Detecting Aruco with Webcam 
 You will need a webcam with a camera driver to publish a topic and the aruco node can subscribe to.
 
-
 ### Referances
-// 
+[Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3).
+[ROS2 Wrapper for OpenCV Aruco Marker Tracking](https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco).
+[ROS2 Driver for USB Camera](https://github.com/ros-drivers/usb_cam/tree/ros2)
+
