@@ -35,7 +35,7 @@ You will need to run the following insequence.
 You will need a webcam with a camera driver to publish a topic and the aruco node can subscribe to.
 
 ### Referances
-[Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3).
-[ROS2 Wrapper for OpenCV Aruco Marker Tracking](https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco).
-[ROS2 Driver for USB Camera](https://github.com/ros-drivers/usb_cam/tree/ros2)
+[Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3). <br>
+[ROS2 Wrapper for OpenCV Aruco Marker Tracking](https://github.com/JMU-ROBOTICS-VIVA/ros2_aruco). <br>
+[ROS2 Driver for USB Camera](https://github.com/ros-drivers/usb_cam/tree/ros2) <br>
 
