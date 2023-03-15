@@ -12,7 +12,7 @@ The following have been tested on Ubuntu 20.04 with ROS Foxy.
 You will need to run the following insequence.
 
 #### 1. Start the Gazebo Simulation
-> ros2 launch aruco_nav room_gazebo.launch.py
+> ros2 launch aruco_nav room_gazebo.launch.py <
 
 #### Start the Aruco Node to detect arucos.
 > ros2 run ros2_aruco aruco_node --ros-args -p marker_size:=0.15
